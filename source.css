@@ -1,0 +1,57 @@
+body
+{
+font-family: Arial Black;
+font-weight: normal;
+background-color: black;
+font-size: 21px;
+text-align: center;
+cursor:url(cursor.cur),auto;
+}
+
+h1 
+{
+font-size: 170%;
+margin-top: 15px;
+margin-bottom: 15px;
+color:rgb(192,170,95);
+text-shadow: 3px 3px rgb(90,29,11);
+}
+
+
+
+.Image
+{
+display: block;
+margin-left: auto;
+margin-right:auto;
+padding:45px;
+}
+
+.tbody1
+{
+margin:auto;
+text-aligne:center;
+text-shadow: 3px 3px rgb(90,29,11);
+font-size:21px;
+width:100%;
+}
+.tbody2
+{
+margin:auto;
+text-aligne:center;
+width:100%;
+color:rgb(90,29,11);
+}
+.prgrph
+{
+color:rgb(90,29,11);
+margin:60px;
+}
+
+.href1
+{
+padding:20px;
+color:rgb(192,170,95);
+text-decoration:none;
+cursor:url(cursor.cur),auto;
+}
