@@ -26,6 +26,12 @@ margin-left: auto;
 margin-right:auto;
 padding:45px;
 }
+table
+{
+margin:auto;
+text-aligne:center;
+width:100%;
+}
 
 .tbody1
 {
@@ -58,8 +64,4 @@ cursor:url(cursor.cur),auto;
 audio
 {
 cursor:url(cursor.cur),auto;
-}
-p
-{
-text-align:center;
 }
