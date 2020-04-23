@@ -37,10 +37,16 @@ width:100%;
 {
 text-shadow: 3px 3px rgb(90,29,11);
 font-size:21px;
+margin:auto;
+text-aligne:center;
+width:100%;
 }
 .tbody2
 {
 color:rgb(90,29,11);
+margin:auto;
+text-aligne:center;
+width:100%;
 }
 
 .prgrph
