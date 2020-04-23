@@ -55,3 +55,7 @@ color:rgb(192,170,95);
 text-decoration:none;
 cursor:url(cursor.cur),auto;
 }
+audio
+{
+cursor:url(cursor.cur),auto;
+}
